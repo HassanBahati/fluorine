@@ -1,4 +1,4 @@
-# EDU LOOKBOOK
+# FLUORINE
 > A place where you can organise meetups and find upcoming meetups in your interests.
 
 ## Tech Stack
