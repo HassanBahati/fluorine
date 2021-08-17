@@ -1,8 +1,7 @@
-
 const Detailspage = () => {
     return (
         <div>
-           <h1>Details Page </h1>
+            <h1>Details Page </h1>
         </div>
     )
 }
